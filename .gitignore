@@ -11,3 +11,4 @@ wheels/
 
 # BootDev told me to
 game_state.jsonl
+game_events.jsonl
